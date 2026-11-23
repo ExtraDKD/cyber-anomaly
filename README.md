@@ -28,7 +28,6 @@ HTML, CSS และ JavaScript ล้วนในไฟล์เดียว ไ
 * แนวคิด เนื้อเรื่อง และภาพตัวละคร: นายกิตติพงศ์ คงสมปราชญ์ และ นส.นัยน์ภัค หงศ์หา
 * โค้ดและเนื้อหาพัฒนาร่วมกับผู้ช่วย AI (Claude โดย Anthropic) ภายใต้การกำกับของผู้พัฒนา
 * ฟอนต์: IBM Plex Sans Thai, IBM Plex Mono, Chakra Petch, Sarabun (SIL Open Font License) ผ่าน Google Fonts
-* เสียงไก่ขัน: Pixabay.com
 
 ข้อมูลบุคคล องค์กร โดเมน เลขบัญชี และเบอร์โทรในเกมเป็นข้อมูลสมมติทั้งหมด
 
